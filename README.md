@@ -1,4 +1,20 @@
-# FingerShooter
+<p align="center">
+  <img src="./assets/banner.svg" alt="FingerShooter by Micro Club" width="1000" />
+</p>
+
+<p align="center">
+  <a href="https://fingershooter.netlify.app/"><img src="https://img.shields.io/badge/play-live-22e07a?labelColor=0b0b10" alt="Play live" /></a>
+  <a href="https://github.com/MicroClub-USTHB/FingerShooter/stargazers"><img src="https://img.shields.io/github/stars/MicroClub-USTHB/FingerShooter?style=flat&labelColor=0b0b10" alt="stars" /></a>
+  <a href="https://github.com/MicroClub-USTHB/FingerShooter/issues"><img src="https://img.shields.io/github/issues/MicroClub-USTHB/FingerShooter?labelColor=0b0b10" alt="issues" /></a>
+  <a href="https://github.com/MicroClub-USTHB/FingerShooter/commits/main"><img src="https://img.shields.io/github/last-commit/MicroClub-USTHB/FingerShooter?labelColor=0b0b10" alt="last commit" /></a>
+  <a href="https://github.com/MicroClub-USTHB"><img src="https://img.shields.io/badge/by-Micro%20Club%20USTHB-0b0b10?style=flat" alt="Micro Club USTHB" /></a>
+</p>
+
+<p align="center"><a href="https://fingershooter.netlify.app/">Play live</a> · <a href="#quick-start">Quick start</a> · <a href="#controls">Controls</a> · <a href="#gameplay">Gameplay</a> · <a href="#tech-notes">Tech</a></p>
+
+---
+
+## FingerShooter
 
 A first-person shooting-gallery web game with **Matrix-hacking vibes**. Aim a sci-fi energy pistol with your **index finger** and fire by **snapping your thumb** — a real finger-gun, tracked live through your webcam. Hand tracking runs entirely in-browser; no video ever leaves your machine.
 
